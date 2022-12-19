@@ -18,8 +18,8 @@ class _ListTilesState extends State<ListTiles> {
           children: [
             ListTile(
               leading: const Icon(Icons.accessible_forward),
-              title: const Text('Marina Gansi'),
-              subtitle: const Text('Bhaktapur'),
+              title: const Text('Aashutosh'),
+              subtitle: const Text('Chabahil'),
               trailing: Wrap(
                 spacing: 8,
                 children: [
@@ -31,14 +31,14 @@ class _ListTilesState extends State<ListTiles> {
             ),
             const ListTile(
               leading: Icon(Icons.accessible_forward),
-              title: Text('Ruja bhatta'),
-              subtitle: Text('Bhaktapur'),
+              title: Text('Shreyan'),
+              subtitle: Text('hetauda'),
               trailing: Icon(Icons.delete),
             ),
             const ListTile(
               leading: Icon(Icons.accessible_forward),
-              title: Text('Bibhusha'),
-              subtitle: Text('Bhaktapur'),
+              title: Text('Pratima'),
+              subtitle: Text('kalimati'),
               trailing: Icon(Icons.delete),
             ),
           ],

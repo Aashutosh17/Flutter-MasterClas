@@ -27,7 +27,7 @@ class _ImageScreenState extends State<ImageScreen> {
             color: const Color.fromARGB(255, 240, 219, 143),
             border: Border.all(
               color: Colors.amberAccent,
-              width: 10,
+              width: 50,
             ),
           )),
         ),

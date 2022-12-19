@@ -159,7 +159,6 @@ class _StudentDetailsScreenState extends State<StudentDetailsScreen> {
                     ),
                   ),
                 ),
-               
                 const SizedBox(
                   height: 8,
                 ),
@@ -190,7 +189,6 @@ class _StudentDetailsScreenState extends State<StudentDetailsScreen> {
                           );
 
                           _addStudentToList(student);
-                          debugPrint(lstStudents!.length.toString());
                         }
                       }),
                 ),
